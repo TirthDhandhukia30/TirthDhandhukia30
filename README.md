@@ -1,3 +1,10 @@
+<div align="center">
+
+![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=white&label=Knight&query=rank.name&url=https://leetcode-stats-api.herokuapp.com/TirthDhandhukia&logo=leetcode&logoColor=white)
+![Streak](https://img.shields.io/badge/Streak-50%20days-black?style=flat&logo=leetcode&logoColor=white)
+
+</div>
+
 #  About Me
 
 Hey there, I'm **Tirth Dhandhukia**
