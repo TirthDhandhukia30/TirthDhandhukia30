@@ -15,15 +15,11 @@ Hey there, I'm **Tirth Dhandhukia**
 # Tech:
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp,react,redux,bootstrap,aws,express,git,github,vercel,postman,tailwind,docker,kubernetes,discord,n8n)](https://skillicons.dev)
 
----
-[![](https://visitcount.itsvg.in/api?id=TirthDhandhukia30&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TirthDhandhukia30&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TirthDhandhukia30&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
 
@@ -31,7 +27,5 @@ Hey there, I'm **Tirth Dhandhukia**
 
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=TirthDhandhukia30&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
