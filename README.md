@@ -1,8 +1,6 @@
-<div align="center">
+<div align="left">
   
 [![LeetCode user TirthDhandhukia](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=white&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FTirthDhandhukia&logo=leetcode&logoColor=white)](https://leetcode.com/TirthDhandhukia/)
-[![KnightBadge](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=white&label=Rank&query=rank&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FTirthDhandhukia&logo=leetcode&logoColor=white)](https://leetcode.com/TirthDhandhukia/)
-
 </div>
 
 #  About Me
