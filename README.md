@@ -1,7 +1,7 @@
 <div align="center">
-
-![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=white&label=Knight&query=rank.name&url=https://leetcode-stats-api.herokuapp.com/TirthDhandhukia&logo=leetcode&logoColor=white)
-![Streak](https://img.shields.io/badge/Streak-50%20days-black?style=flat&logo=leetcode&logoColor=white)
+  
+[![LeetCode user TirthDhandhukia](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=white&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FTirthDhandhukia&logo=leetcode&logoColor=white)](https://leetcode.com/TirthDhandhukia/)
+[![KnightBadge](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=white&label=Rank&query=rank&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FTirthDhandhukia&logo=leetcode&logoColor=white)](https://leetcode.com/TirthDhandhukia/)
 
 </div>
 
