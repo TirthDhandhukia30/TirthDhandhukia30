@@ -1,5 +1,12 @@
-#  About Me:
- Hey there, I'm Tirth Dhandhukia!<br><br>🎓 Final-year Electronics & Telecommunication Engineering student  <br>💻 Passionate about Front-End Development | Exploring Data Engineering & DevOps  <br>🌱 Currently learning: MERN Stack alongside Data Science.  <br>My personal portfolio – [tirthdhandhukia.com](http://tirthdhandhukia.com)<br>
+#  About Me
+
+Hey there, I'm **Tirth Dhandhukia**
+
+🎓 Final-year Electronics & Telecommunication Engineering student  
+💻 Passionate about Front-End Development | Exploring Data Engineering & DevOps  
+🌱 Currently learning: MERN Stack alongside Data Science
+
+→ [tirthdhandhukia.com](http://tirthdhandhukia.com)
 
 
 ## 🌐 Socials:
